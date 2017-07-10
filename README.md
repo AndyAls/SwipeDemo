@@ -1,9 +1,10 @@
-#æœ¬demoæŠ€æœ¯è¦ç‚¹
--  **è‡ªå®šä¹‰å¿«é€Ÿç´¢å¼•æ§ä»¶**
--  **ViewPageræœ‰æ•ˆçš„ç¦æ­¢å·¦å³æ»‘åŠ¨**
--  **FragmentæŠ½å–æ‡’åŠ è½½åŸºç±»,ä¸”åªåŠ è½½ä¸€æ¬¡** 
--  **æ„Ÿè°¢å¼€æºåº“[SwipeMenuListView][1]**
+#±¾demo¼¼ÊõÒªµã
+-  **×Ô¶¨Òå¿ìËÙË÷Òı¿Ø¼ş**
+-  **ViewPagerÓĞĞ§µÄ½ûÖ¹×óÓÒ»¬¶¯**
+-  **Fragment³éÈ¡ÀÁ¼ÓÔØ»ùÀà,ÇÒÖ»¼ÓÔØÒ»´Î** 
+-  **¸ĞĞ»¿ªÔ´¿â[SwipeMenuListView][1]**
 
-#æ•ˆæœå›¾
-![æ•ˆæœå›¾](http://img.blog.csdn.net/20170710134015979?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvQW5keV9sMQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
+#Ğ§¹ûÍ¼
+![Ğ§¹ûÍ¼](http://img.blog.csdn.net/20170710134015979?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvQW5keV9sMQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 [1]:https://github.com/baoyongzhang/SwipeMenuListView
